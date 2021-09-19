@@ -2,6 +2,8 @@ PintOS Project
 ==============
 
 [PintOS][pintos].
+Stanford CS140
+https://www.scs.stanford.edu/21wi-cs140/
 
 
 ## Project 1
