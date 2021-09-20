@@ -1,7 +1,9 @@
 PintOS Project
 ==============
 
-[PintOS][pintos].
+PintOS.
+Xiaotian_Fang
+
 Stanford CS140
 https://www.scs.stanford.edu/21wi-cs140/
 
